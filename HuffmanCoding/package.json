@@ -1,0 +1,15 @@
+{
+  "name": "huffmancoding",
+  "version": "1.0.0",
+  "description": "This is the assignment for huffman coding",
+  "main": "HuffmanCode.js",
+  "scripts": {
+    "start": "node HuffmanCode.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hem Shah Shujaat Bakshh Siddarth Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
